@@ -25,5 +25,4 @@ exports.avg = function avg (array) {
     }
     let avg = sum / array.length;
     return avg;
-  return 0;
 }
